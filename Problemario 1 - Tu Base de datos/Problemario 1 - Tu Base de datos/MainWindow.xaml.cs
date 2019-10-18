@@ -56,7 +56,7 @@ namespace WPFDBParte2
 				gvDatos.Visibility = System.Windows.Visibility.Hidden;
 			}
 		}
-
+		
 		//Limpiamos todos los campos
 		private void LimpiaTodo()
 		{
